@@ -1,4 +1,7 @@
 <h1>Hey there! </h1>
+<div align="center">
+    <img src="https://github.com/ShlokSumitSwetha/ShlokSumitSwetha/blob/main/SPRING_BOOT.png" alt="hey" />
+</div>
 
 <p align="center">Welcome to my page! </br> I'm Sumith, a Passionate Software Developer</b>.</p>
 
